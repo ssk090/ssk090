@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hello@shivananda.dev**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gDwG1kyW_U1oXtSz8VBlJOrdNgWOP1mQ/view?usp=sharing](https://drive.google.com/file/d/1gDwG1kyW_U1oXtSz8VBlJOrdNgWOP1mQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xfmrJZMdPOV3psDKitp4FfMg662IvpPo/view?usp=sharing](https://drive.google.com/file/d/1gDwG1kyW_U1oXtSz8VBlJOrdNgWOP1mQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
