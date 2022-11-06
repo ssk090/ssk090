@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ssk090](https://github.com/ssk090)
 
-- 📫 How to reach me **hello@shivananda.dev**
+- 📫 How to reach me **shivanandasai.38@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17z3XUYHZrEUv2pSXmVxvHQM_wndroHS1/view?usp=sharing)
 
