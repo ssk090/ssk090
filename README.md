@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivananda Sai</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<h4 align="center">I am a frontend developer with 2 years of experience in developing and delivering high-quality web applications. My goal is to create visually appealing and user-friendly web pages that offer seamless navigation and excellent performance.
+</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssk090&label=Profile%20views&color=000000&style=flat" alt="ssk090" /> </p>
 
