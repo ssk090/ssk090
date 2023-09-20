@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivanandasai.38@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ll6jAXhMLVRllqEfN5mjG3_80G9wShQN/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_PZA-7CuhFyxN__9sIswfBleBh_Rxdbq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
