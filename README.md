@@ -9,10 +9,4 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_PZA-7CuhFyxN__9sIswfBleBh_Rxdbq/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/shivanandasai" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="shivanandasai" height="30" width="40" /></a>
-</p>
-
-
 
