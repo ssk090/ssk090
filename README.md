@@ -7,6 +7,6 @@
 
 - 📫 How to reach me **shivanandasai.38@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_PZA-7CuhFyxN__9sIswfBleBh_Rxdbq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uCQWwG8iOmJCbJ3ZQYlPHG0ZJhOdKpT_/view?usp=sharing)
 
 
